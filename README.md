@@ -1,2 +1,2 @@
 # react
-this repo contains all reactt notes and codes
+this repo contains all react notes and codes
